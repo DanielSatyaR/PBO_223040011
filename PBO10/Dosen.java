@@ -1,3 +1,4 @@
+
 package PBO10;
 
 public class Dosen extends Karyawan{
@@ -16,3 +17,5 @@ public class Dosen extends Karyawan{
     }
 
 }
+
+

@@ -1,3 +1,4 @@
+
 package PBO10;
 
 public class InheritanceMain {

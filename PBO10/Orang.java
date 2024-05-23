@@ -1,3 +1,4 @@
+
 package PBO10;
 
 public class Orang {
@@ -26,4 +27,3 @@ public class Orang {
     }
 
 
-	}
